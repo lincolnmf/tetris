@@ -9,6 +9,7 @@
 
 #include "tetris.h"
 
+
 /*
     Inicializa a matriz principal com 'espaços vazios'
 */

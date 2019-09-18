@@ -6,14 +6,19 @@
     Data: 28/08/2019
 
 */
-
+#include <conio.h>
 #include <stdio.h>
 #include <stdlib.h>
 
 //Configuração das dimensões da matriz principal do jogo
 #define COLUMNS 60
 #define ROWS 25
-
+#define ESC 27
+#define ARROWS 224
+#define LEFT 75
+#define RIGHT 77
+#define TECLA_A 97
+#define TECLA_D 100
 /*
     Inicializa a matriz principal com 'espaços vazios'
 */
